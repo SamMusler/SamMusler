@@ -30,8 +30,3 @@
 - 💬 Ask me about Tech, Basketball or Film!
 - 📫 How to reach me: sam.a.musler@gmail.com
 - ⚡ Fun fact: I spent the last two years teaching myself Spanish while traveling Latin America and just started with Italian!
-
-**SamMusler/SamMusler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>
