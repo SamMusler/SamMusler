@@ -25,8 +25,8 @@
 
 
 - 🔭 I’m currently looking for work as a fullstack/backend developer in Ruby on Rails.
-- 🌱 I’m currently learning on LeetCode and W3Schools
+- 🌱 I’m currently learning algos on LeetCode and React on Scrimba.
 - 👯 I’m looking to collaborate on JavaScript and Ruby projects.
 - 💬 Ask me about Tech, Basketball or Film!
 - 📫 How to reach me: sam.a.musler@gmail.com
-- ⚡ Fun fact: I spent the last two years teaching myself Spanish while traveling Latin America and just started with Italian!
+- ⚡ Fun fact: I spent the last two years teaching myself Spanish while traveling Latin America!
